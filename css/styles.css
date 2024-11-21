@@ -1,3 +1,27 @@
 /* Ini CSS */
 
+/* LOGO */
+.main-logo {
+    width: 100px;
+    height: 75px;
+}
 
+/* HEADER */
+.main-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+/* ARTICLE */
+.main-article {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+
+
+
+/* FOOTER */
